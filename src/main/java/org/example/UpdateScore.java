@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class UpdateScore {
 
-  public void UpdateScoreDate(List<Student> studentList) {
+  public void updateScoreDate(List<Student> studentList) {
     Scanner scanner = new Scanner(System.in);
 
     System.out.println("点数を更新する生徒の名前を入力してください");

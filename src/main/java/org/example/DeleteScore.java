@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DeleteScore {
 
-  public void DeleteStudentData(List<Student> studentList) {
+  public void deleteStudentData(List<Student> studentList) {
     Scanner scanner = new Scanner(System.in);
 
     System.out.println("削除する生徒の名前を入力してください");

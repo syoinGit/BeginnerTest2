@@ -3,9 +3,9 @@ package org.example;
 import java.util.List;
 import java.util.Scanner;
 
-public class Mainmenu {
+public class StartMenu {
 
-  public int UserInput() {
+  public int userInput() {
 
     Scanner scanner = new Scanner(System.in);
     List<String> mainMenu = List.of("1.学生を追加", "2.学生を削除", "3.点数を更新",

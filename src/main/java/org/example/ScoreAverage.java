@@ -4,7 +4,7 @@ import java.util.List;
 
 public class ScoreAverage {
 
-  public void StudentScoreAverage(List<Student> studentList) {
+  public void studentScoreAverage(List<Student> studentList) {
 
     int average = 0;
 

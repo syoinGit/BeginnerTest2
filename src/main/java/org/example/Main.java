@@ -54,7 +54,6 @@ public class Main {
         // 数値以外が入力された場合の処理
         System.out.println("無効な入力です。数値を入力してください。");
         scanner.nextLine();
-      } catch (Exception e) {
       }
     }
   }

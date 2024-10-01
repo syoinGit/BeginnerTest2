@@ -1,3 +1,6 @@
+# コード内容
+生徒のテスト得点情報の追加などの処理を行う。
+
 # メニューの表示
 <img width="1440" alt="スクリーンショット 2024-09-14 10 53 41" src="https://github.com/user-attachments/assets/8556e710-7823-4ca6-b72f-fb7e705eb536">
 
